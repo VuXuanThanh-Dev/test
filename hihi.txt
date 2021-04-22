@@ -7,8 +7,6 @@ hihi
 kaka
 7
 hehe
-<<<<<<< Updated upstream
 danger
-=======
 warning
->>>>>>> Stashed changes
+
