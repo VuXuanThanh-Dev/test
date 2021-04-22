@@ -5,12 +5,7 @@ hihi
 5
 6
 7
-<<<<<<< Updated upstream
 8
 9
 10
-kaka
 
-=======
-9
->>>>>>> Stashed changes
