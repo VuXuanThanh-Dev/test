@@ -26,8 +26,6 @@ thanh
 thanh change
 oke
 oke babe
-<<<<<<< Updated upstream
 hehe
-=======
 hihi
->>>>>>> Stashed changes
+
