@@ -28,8 +28,5 @@ oke
 oke babe
 hehe
 hihi
-<<<<<<< Updated upstream
 huhu
-=======
 kaka
->>>>>>> Stashed changes
