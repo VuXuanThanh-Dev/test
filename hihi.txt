@@ -22,8 +22,6 @@ change 3
 change 4
 chang other
 change test
-<<<<<<< Updated upstream
 thanh
-=======
 thanh change
->>>>>>> Stashed changes
+
